@@ -1,0 +1,2 @@
+# selawase.js
+selawase
